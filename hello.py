@@ -1,5 +1,3 @@
-print("Hello, world!")
-
-# Modifica o conteúdo do arquivo para a nova frase
-%%writefile hello.py
-print("Meu primeiro Hello, world!")
+#!/usr/bin/env python3
+# Este programa imprime Hello World.
+print("Hello, World!")
